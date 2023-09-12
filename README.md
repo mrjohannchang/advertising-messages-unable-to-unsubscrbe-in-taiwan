@@ -16,8 +16,9 @@
 
 ## 無法自行設定亦無法透過人工顧客服務反應或反應無效
 
-| 平臺                                                        | 電話 | 簡訊 | 電子郵件 |
-| ----------------------------------------------------------- | :--: | :--: | :------: |
-| [MANARA 曼娜麗[官方網站]](https://www.manara.asia/)         |      |  ✓   |    ✓     |
-| [THERMOS膳魔師官方購物網站](https://www.thermos-eshop.com/) |      |  ✓   |          |
-| [杰森食代Jason Food](https://www.jasonfood.com.tw/)         |      |  ✓   |          |
+| 平臺                                                         | 電話 | 簡訊 | 電子郵件 |
+| ------------------------------------------------------------ | :--: | :--: | :------: |
+| [MANARA 曼娜麗[官方網站]](https://www.manara.asia/)          |      |  ✓   |    ✓     |
+| [THERMOS膳魔師官方購物網站](https://www.thermos-eshop.com/)  |      |  ✓   |          |
+| [杰森食代Jason Food](https://www.jasonfood.com.tw/)          |      |  ✓   |          |
+| [昇恆昌免稅購物網Ever Rich Duty Free Online](https://www.everrich.com/) |      |  ✓   |          |
