@@ -11,6 +11,7 @@
 | [Pizza Hut 必勝客](https://www.pizzahut.com.tw/)             |      |  ✓   |          |
 | [台灣安達人壽 - Chubb](https://www.chubb.com/)               |      |  ✓   |          |
 | [匯豐銀行](https://www.hsbc.com.tw/)                         |      |  ✓   |          |
+| [家樂福線上購物](https://online.carrefour.com.tw/)           |      |  ✓   |          |
 | [中華電信](https://www.cht.com.tw/)                          |      |  ✓   |          |
 | [遠雄社區雲Ucity（原遠雄數位服務平台）](https://www.u-city.com.tw/) |      |  ✓   |          |
 
